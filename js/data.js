@@ -18,7 +18,7 @@ window.PORTFOLIO_DATA = {
   // email app with their message pre-filled (mailto fallback).
   contact: {
     formspreeId: "YOUR_FORMSPREE_ID",   // <-- REPLACE THIS
-    mailto: "calvinwilliams772@gmail.com",
+    mailto: "cwill214@uic.edu",
     minRenderSeconds: 3
   },
 
@@ -101,7 +101,7 @@ window.PORTFOLIO_DATA = {
       number: "01",
       client: "Intel",
       title: "Sustainability analytics & storytelling",
-      year: "2024",
+      year: "2026",
       role: "Data strategy · Visualization",
       summary:
         "Partnered with Intel's sustainability organization to translate complex environmental data into clear, executive-ready narratives — connecting metrics, goals, and stakeholder value.",
@@ -119,7 +119,7 @@ window.PORTFOLIO_DATA = {
       number: "02",
       client: "Grammy.com / Recording Academy",
       title: "Editorial & digital experience",
-      year: "2023",
+      year: "2026",
       role: "Digital strategy · Content systems",
       summary:
         "Contributed to Grammy.com's digital surface during a pivotal awards cycle — working on editorial structure, content operations, and the connective tissue between storytelling and systems.",
@@ -138,20 +138,20 @@ window.PORTFOLIO_DATA = {
   // ------------------------------------------------------------------------
   awards: [
     {
-      year: "2024",
-      title: "Intel Sustainability Storytelling Recognition",
-      org: "Intel Corporation",
-      detail: "Recognized for data-driven narrative work supporting corporate sustainability reporting."
+      year: "2026",
+      title: "Chancellor's Student Service Award",
+      org: "University of Illinois Chicago",
+      detail: "Recognized at UIC’s 54th Annual Chancellor’s Student Service and Leadership Awards Ceremony for outstanding contribution to the university through campus and community service."
     },
     {
-      year: "2023",
-      title: "Contributor — 65th Annual Grammy Awards Digital Coverage",
-      org: "Recording Academy / Grammy.com",
+      year: "2025",
+      title: "NM Kellogg Healthcare Leadership Center Series",
+      org: "Northwestern Memorial Hospital",
       detail: "Contributing team member for Grammy.com editorial operations during the 65th awards cycle."
     },
     {
-      year: "2022",
-      title: "Dean's List — Academic Distinction",
+      year: "2025",
+      title: "NM Leading with Excellence Certificate Program: Leading Others",
       org: "University",
       detail: "Recognized for academic excellence across multiple semesters."
     }
@@ -169,22 +169,10 @@ window.PORTFOLIO_DATA = {
       url: "https://www.coursera.org/professional-certificates/google-data-analytics"
     },
     {
-      title: "Tableau Desktop Specialist",
-      issuer: "Tableau",
-      year: "2024",
-      url: "https://www.tableau.com/learn/certification/desktop-specialist"
-    },
-    {
-      title: "IBM Data Science Professional Certificate",
-      issuer: "IBM / Coursera",
-      year: "2023",
-      url: "https://www.coursera.org/professional-certificates/ibm-data-science"
-    },
-    {
-      title: "Meta Front-End Developer Certificate",
-      issuer: "Meta / Coursera",
-      year: "2023",
-      url: "https://www.coursera.org/professional-certificates/meta-front-end-developer"
+      title: "Data Analysis",
+      issuer: "Global Career Accelerator",
+      year: "2026",
+      url: "https://www.credential.net/20600fbc-7450-48ea-b9ea-d361bf0675df"
     }
   ],
 
@@ -193,7 +181,7 @@ window.PORTFOLIO_DATA = {
   // Entries with url "#" are skipped silently until you add real URLs.
   // ------------------------------------------------------------------------
   socials: [
-    { label: "LinkedIn", url: "#", handle: "in/calvinwilliamsiii" },
+    { label: "LinkedIn", url: "#", handle: "https://www.linkedin.com/in/calvin-williams-iii-318690190" },
     { label: "GitHub",   url: "https://github.com/Calvinw214", handle: "Calvinw214" },
     { label: "Email",    url: "mailto:calvinwilliams772@gmail.com", handle: "calvinwilliams772@gmail.com" }
   ]
