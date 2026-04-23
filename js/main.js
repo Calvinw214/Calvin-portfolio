@@ -152,10 +152,10 @@
 
   const COMMANDS = [
     { id: 'nav-about',   label: 'Go to About',          hint: 'Section', action: () => scrollToId('about') },
-    { id: 'nav-work',    label: 'Go to Selected Work',  hint: 'Section', action: () => scrollToId('projects') },
+    { id: 'nav-work',    label: 'Go to Projects',  hint: 'Section', action: () => scrollToId('projects') },
     { id: 'nav-awards',  label: 'Go to Awards',         hint: 'Section', action: () => scrollToId('awards') },
     { id: 'nav-certs',   label: 'Go to Certifications', hint: 'Section', action: () => scrollToId('certifications') },
-    { id: 'nav-capabilities',  label: 'Go to Capabilities', hint: 'Section', action: () => scrollToId('capabilities') },
+    { id: 'nav-capabilities',  label: 'Go to Skills', hint: 'Section', action: () => scrollToId('skills') },
     { id: 'nav-contact', label: 'Go to Contact',        hint: 'Section', action: () => scrollToId('contact') },
     { id: 'copy-email',  label: 'Copy email address',   hint: 'Action',  action: async () => {
         const ok = await copyText(DATA.contact?.mailto || 'calvinwilliams772@gmail.com');
