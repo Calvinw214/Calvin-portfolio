@@ -100,11 +100,11 @@ window.PORTFOLIO_DATA = {
       id: "intel",
       number: "01",
       client: "Intel",
-      title: "Sustainability analytics & storytelling",
+      title: "Intel Data Center",
       year: "2026",
       role: "Data strategy · Visualization",
       summary:
-        "Partnered with Intel's sustainability organization to translate complex environmental data into clear, executive-ready narratives — connecting metrics, goals, and stakeholder value.",
+        "Built interactive Tableau dashboards — bar charts, dual-axis plots, tree maps, and time-series views — to evaluate regional energy production, demand, and renewable usage. The analysis supported data-driven recommendations for optimal and sustainable data-center site selection for Intel.",
       contributions: [
         "Designed dashboards turning multi-year emissions data into decision-ready visuals.",
         "Authored narrative frameworks bridging technical metrics with brand voice.",
@@ -115,14 +115,14 @@ window.PORTFOLIO_DATA = {
       tags: ["Sustainability", "Data viz", "Executive narrative"]
     },
     {
-      id: "grammy",
+      id: "Grammy",
       number: "02",
       client: "Grammy.com / Recording Academy",
       title: "Editorial & digital experience",
       year: "2026",
       role: "Digital strategy · Content systems",
       summary:
-        "Contributed to Grammy.com's digital surface during a pivotal awards cycle — working on editorial structure, content operations, and the connective tissue between storytelling and systems.",
+        "Used advanced Excel analytics — PivotTables, conditional logic (IF, SUMIFS, AVERAGEIFS) and XLOOKUP — to calculate user-engagement KPIs and mobile-visitor rates. Compared performance across Grammy.com and RecordingAcademy.com to quantify the business impact of their 2022 website split.",
       contributions: [
         "Shaped editorial templates and modular content patterns.",
         "Supported live coverage operations across high-traffic moments.",
@@ -183,6 +183,6 @@ window.PORTFOLIO_DATA = {
   socials: [
     { label: "LinkedIn", url: "#", handle: "https://www.linkedin.com/in/calvin-williams-iii-318690190" },
     { label: "GitHub",   url: "https://github.com/Calvinw214", handle: "Calvinw214" },
-    { label: "Email",    url: "mailto:calvinwilliams772@gmail.com", handle: "calvinwilliams772@gmail.com" }
+    { label: "Email",    url: "mailto:cwill214@uic.edu", handle: "cwill214@uic.edu" }
   ]
 };
