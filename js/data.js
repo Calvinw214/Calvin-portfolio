@@ -164,9 +164,9 @@ window.PORTFOLIO_DATA = {
   // ------------------------------------------------------------------------
   certifications: [
     {
-      title: "Google Data Analytics Professional Certificate",
-      issuer: "Google / Coursera",
-      year: "2024",
+      title: "Data Visualization",
+      issuer: "Global Career Accelerator",
+      year: "2026",
       url: "https://www.coursera.org/professional-certificates/google-data-analytics"
     },
     {
@@ -174,6 +174,18 @@ window.PORTFOLIO_DATA = {
       issuer: "Global Career Accelerator",
       year: "2026",
       url: "https://www.credential.net/20600fbc-7450-48ea-b9ea-d361bf0675df"
+    },
+     {
+      title: "AI Professional Skills",
+      issuer: "Global Career Accelerator",
+      year: "2026",
+      url: "https://www.coursera.org/professional-certificates/google-data-analytics"
+    },
+     {
+      title: "Intercultural Skills",
+      issuer: "Global Career Accelerator",
+      year: "2026",
+      url: "https://www.coursera.org/professional-certificates/google-data-analytics"
     }
   ],
 
