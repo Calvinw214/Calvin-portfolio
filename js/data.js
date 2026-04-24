@@ -53,7 +53,7 @@ window.PORTFOLIO_DATA = {
   // Each item has `name` + `level` (Expert, Advanced, Proficient, Learning).
   // Icon choices: "chart", "leadership", "communication", or a custom SVG string.
   // ------------------------------------------------------------------------
-  capabilities: [
+ Skills: [
     {
       title: "Data Analysis",
       subtitle: "Tools of the trade",
@@ -119,7 +119,7 @@ window.PORTFOLIO_DATA = {
       id: "Grammy",
       number: "02",
       client: "Grammy.com / Recording Academy",
-      title: "Editorial & digital experience",
+      title: "Analyzing Website Performance",
       year: "2026",
       role: "Digital strategy · Content systems",
       summary:
@@ -153,7 +153,7 @@ window.PORTFOLIO_DATA = {
     {
       year: "2025",
       title: "NM Leading with Excellence Certificate Program: Leading Others",
-      org: "University",
+      org: "Northwestern Memorial Hospital",
       detail: "Recognized for academic excellence across multiple semesters."
     }
   ],
