@@ -53,7 +53,7 @@ window.PORTFOLIO_DATA = {
   // Each item has `name` + `level` (Expert, Advanced, Proficient, Learning).
   // Icon choices: "chart", "leadership", "communication", or a custom SVG string.
   // ------------------------------------------------------------------------
-Skills: [
+skills: [
   {
     title: "Data Analysis",
     subtitle: "Tools of the trade",
