@@ -67,7 +67,7 @@
     return s;
   }
 
-  // Built-in SVG icon set for capabilities cards
+  // Built-in SVG icon set for skills cards
   const ICONS = {
     chart: '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3v18h18"/><path d="m7 14 3-3 3 3 5-6"/></svg>',
     leadership: '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="3.5"/><path d="M5 20c0-3.5 3-6 7-6s7 2.5 7 6"/></svg>',
@@ -282,7 +282,7 @@
   function init() {
     renderAbout();
     renderSnapshot();
-    renderSkills();
+    renderskills();
     renderProjects();
     renderAwards();
     renderCertifications();
