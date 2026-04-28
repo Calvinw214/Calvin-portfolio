@@ -104,7 +104,7 @@
     }).join('');
   }
 
-  function renderSkills() {
+  function renderskills() {
     const mount = document.getElementById('skillsGrid');
     if (!mount || !Array.isArray(DATA.skills)) return;
     mount.innerHTML = DATA.skills.map((cap, idx) => {
