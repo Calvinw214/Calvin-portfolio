@@ -104,10 +104,10 @@
     }).join('');
   }
 
-  function renderCapabilities() {
-    const mount = document.getElementById('capabilitiesGrid');
-    if (!mount || !Array.isArray(DATA.capabilities)) return;
-    mount.innerHTML = DATA.capabilities.map((cap, idx) => {
+  function renderSkills() {
+    const mount = document.getElementById('skillsGrid');
+    if (!mount || !Array.isArray(DATA.skills)) return;
+    mount.innerHTML = DATA.skills.map((cap, idx) => {
       const title    = escapeHTML(cap.title || '');
       const subtitle = escapeHTML(cap.subtitle || '');
       const items    = Array.isArray(cap.items) ? cap.items : [];
@@ -115,30 +115,30 @@
       // If icon is a known key, use the safe built-in SVG. If it's not recognized,
       // render a neutral default. Never render untrusted SVG strings.
       const iconSVG  = ICONS[iconKey] || ICONS.chart;
-      const highlight = cap.highlight ? ' capability-card-highlight' : '';
+      const highlight = cap.highlight ? ' skill-card-highlight' : '';
 
       const itemsHTML = items.map((it) => {
         const name  = escapeHTML(it.name || '');
         const level = escapeHTML(it.level || '');
         const levelClass = level ? ' level-' + level.toLowerCase().replace(/[^a-z]/g, '') : '';
         return `
-          <li class="capability-item">
-            <span class="capability-item-name">${name}</span>
-            <span class="capability-item-level${levelClass}">${level}</span>
+          <li class="skill-item">
+            <span class="skill-item-name">${name}</span>
+            <span class="skill-item-level${levelClass}">${level}</span>
           </li>
         `;
       }).join('');
 
       return `
-        <article class="capability-card${highlight} reveal reveal-delay-${Math.min(idx, 3)}">
-          <header class="capability-head">
-            <span class="capability-icon" aria-hidden="true">${iconSVG}</span>
-            <div class="capability-head-text">
-              <h3 class="capability-title">${title}</h3>
-              <p class="capability-subtitle">${subtitle}</p>
+        <article class="skill-card${highlight} reveal reveal-delay-${Math.min(idx, 3)}">
+          <header class="skill-head">
+            <span class="skill-icon" aria-hidden="true">${iconSVG}</span>
+            <div class="skill-head-text">
+              <h3 class="skill-title">${title}</h3>
+              <p class="skill-subtitle">${subtitle}</p>
             </div>
           </header>
-          <ul class="capability-items" role="list">
+          <ul class="skill-items" role="list">
             ${itemsHTML}
           </ul>
         </article>
@@ -282,7 +282,7 @@
   function init() {
     renderAbout();
     renderSnapshot();
-    renderCapabilities();
+    renderSkills();
     renderProjects();
     renderAwards();
     renderCertifications();
