@@ -49,7 +49,7 @@ window.PORTFOLIO_DATA = {
   ],
 
   // ------------------------------------------------------------------------
-  // CAPABILITIES — three cards. Middle card gets `highlight: true`.
+  // Skills — three cards. Middle card gets `highlight: true`.
   // Each item has `name` + `level` (Expert, Advanced, Proficient, Learning).
   // Icon choices: "chart", "leadership", "communication", or a custom SVG string.
   // ------------------------------------------------------------------------
