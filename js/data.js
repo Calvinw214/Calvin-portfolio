@@ -53,45 +53,45 @@ window.PORTFOLIO_DATA = {
   // Each item has `name` + `level` (Expert, Advanced, Proficient, Learning).
   // Icon choices: "chart", "leadership", "communication", or a custom SVG string.
   // ------------------------------------------------------------------------
- skills: [
-    {
-      title: "Data Analysis",
-      subtitle: "Tools of the trade",
-      icon: "chart",
-      items: [
-        { name: "Advanced Excel", level: "Expert" },
-        { name: "Tableau",        level: "Advanced" },
-        { name: "Power BI",       level: "Proficient" },
-        { name: "Data Analysis",  level: "Advanced" },
-        { name: "Python",         level: "Learning" }
-      ]
-    },
-    {
-      title: "Leadership & Operations",
-      subtitle: "Making things move",
-      icon: "leadership",
-      highlight: true,
-      items: [
-        { name: "Project Management",   level: "Advanced" },
-        { name: "Agile Leadership",     level: "Proficient" },
-        { name: "Change Management",    level: "Advanced" },
-        { name: "Problem-Solving",      level: "Expert" },
-        { name: "Organizational Skills",level: "Expert" }
-      ]
-    },
-    {
-      title: "Communication & Systems",
-      subtitle: "People & platforms",
-      icon: "communication",
-      items: [
-        { name: "Oral & Written Communication", level: "Advanced" },
-        { name: "Collaboration",                level: "Expert" },
-        { name: "Relationship Building",        level: "Expert" },
-        { name: "EPIC",                         level: "Proficient" },
-        { name: "MS Office Suite",              level: "Expert" }
-      ]
-    }
-  ],
+skills: [
+  {
+    title: "Data Analysis",
+    subtitle: "Tools of the trade",
+    icon: "chart",
+    items: [
+      { name: "Advanced Excel", level: "Expert" },
+      { name: "Tableau", level: "Advanced" },
+      { name: "Power BI", level: "Proficient" },
+      { name: "Data Analysis", level: "Advanced" },
+      { name: "Python", level: "Learning" }
+    ]
+  },
+  {
+    title: "Leadership & Operations",
+    subtitle: "Making things move",
+    icon: "leadership",
+    highlight: true,
+    items: [
+      { name: "Project Management", level: "Advanced" },
+      { name: "Agile Leadership", level: "Proficient" },
+      { name: "Change Management", level: "Advanced" },
+      { name: "Problem-Solving", level: "Expert" },
+      { name: "Organizational Skills", level: "Expert" }
+    ]
+  },
+  {
+    title: "Communication & Systems",
+    subtitle: "People & platforms",
+    icon: "communication",
+    items: [
+      { name: "Oral & Written Communication", level: "Advanced" },
+      { name: "Collaboration", level: "Expert" },
+      { name: "Relationship Building", level: "Expert" },
+      { name: "EPIC", level: "Proficient" },
+      { name: "MS Office Suite", level: "Expert" }
+    ]
+  }
+],
 
   // ------------------------------------------------------------------------
   // PROJECTS
