@@ -104,7 +104,9 @@ window.PORTFOLIO_DATA = {
       year: "2026",
       role: "Data strategy · Visualization",
       summary:
-        "Partnered with Intel's sustainability organization to translate complex environmental data into clear, executive-ready narratives — connecting metrics, goals, and stakeholder value.",
+        "Utililized Tableau to develop interactive dashboards and visualizations (bar charts, dual-axis plots, tree maps, and time-series analyses) 
+         to evaluate regional energy production, demand, and renewable usage, supporting data-driven recommendations for optimal and sustainable 
+         data center site selection for Intel.",
       contributions: [
         "Designed dashboards turning multi-year emissions data into decision-ready visuals.",
         "Authored narrative frameworks bridging technical metrics with brand voice.",
@@ -122,7 +124,9 @@ window.PORTFOLIO_DATA = {
       year: "2026",
       role: "Digital strategy · Content systems",
       summary:
-        "Contributed to Grammy.com's digital surface during a pivotal awards cycle — working on editorial structure, content operations, and the connective tissue between storytelling and systems.",
+        "Utilized advanced Excel analytics, PivotTables, conditional logic (IF, SUMIFS, AVERAGEIFS), and XLOOKUP, to 
+         calculate user engagement KPIs and mobile visitor rates, comparing performance of Grammy.com and RecordingAcademy.com 
+         to assess the business impact of their 2022 website split.",
       contributions: [
         "Shaped editorial templates and modular content patterns.",
         "Supported live coverage operations across high-traffic moments.",
@@ -147,19 +151,16 @@ window.PORTFOLIO_DATA = {
       year: "2025",
       title: "NM Kellogg Healthcare Leadership Center Series",
       org: "Northwestern Memorial Hospital",
-      detail: "Contributing team member for Grammy.com editorial operations during the 65th awards cycle."
     },
      {
       year: "2025",
       title: "NM Leading with Excellence Certificate Program: Leading Others",
       org: "Northwestern Memorial Hospital",
-      detail: "Contributing team member for Grammy.com editorial operations during the 65th awards cycle."
     },
      {
       year: "2024",
       title: "NM Professional Development Essentials Certificate Program: Project Performance",
       org: "Northwestern Memorial Hospital",
-      detail: "Contributing team member for Grammy.com editorial operations during the 65th awards cycle."
     },
     {
       year: "2024-2026",
