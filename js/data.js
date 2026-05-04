@@ -202,8 +202,8 @@ window.PORTFOLIO_DATA = {
   // Entries with url "#" are skipped silently until you add real URLs.
   // ------------------------------------------------------------------------
   socials: [
-    { label: "GitHub",   url: "https://github.com/Calvinw214", handle: "Calvinw214" },
-    { label: "Email",    url: "mailto:cwill214@uic.edu", handle: "cwill214@uic.edu" },
-    { label: "LinkedIn", url: "www.linkedin.com/in/calvin-williams-iii-318690190", handle: "Calvin Williams III" }
+   { label: "LinkedIn", url: "www.linkedin.com/in/calvin-williams-iii-318690190", handle: "Calvin Williams III" }
+   { label: "GitHub",   url: "https://github.com/Calvinw214", handle: "Calvinw214" },
+   { label: "Email",    url: "mailto:cwill214@uic.edu", handle: "cwill214@uic.edu" }
   ]
 };
