@@ -104,9 +104,7 @@ window.PORTFOLIO_DATA = {
       year: "2026",
       role: "Data strategy · Visualization",
       summary:
-        "Utililized Tableau to develop interactive dashboards and visualizations (bar charts, dual-axis plots, tree maps, and time-series analyses) 
-         to evaluate regional energy production, demand, and renewable usage, supporting data-driven recommendations for optimal and sustainable 
-         data center site selection for Intel.",
+        "Utililized Tableau to develop interactive dashboards and visualizations (bar charts, dual-axis plots, tree maps, and time-series analyses) to evaluate regional energy production, demand, and renewable usage, supporting data-driven recommendations for optimal and sustainable data center site selection for Intel.",
       contributions: [
         "Designed dashboards turning multi-year emissions data into decision-ready visuals.",
         "Authored narrative frameworks bridging technical metrics with brand voice.",
@@ -124,9 +122,7 @@ window.PORTFOLIO_DATA = {
       year: "2026",
       role: "Digital strategy · Content systems",
       summary:
-        "Utilized advanced Excel analytics, PivotTables, conditional logic (IF, SUMIFS, AVERAGEIFS), and XLOOKUP, to 
-         calculate user engagement KPIs and mobile visitor rates, comparing performance of Grammy.com and RecordingAcademy.com 
-         to assess the business impact of their 2022 website split.",
+        "Utilized advanced Excel analytics, PivotTables, conditional logic (IF, SUMIFS, AVERAGEIFS), and XLOOKUP, to calculate user engagement KPIs and mobile visitor rates, comparing performance of Grammy.com and RecordingAcademy.com to assess the business impact of their 2022 website split.",
       contributions: [
         "Shaped editorial templates and modular content patterns.",
         "Supported live coverage operations across high-traffic moments.",
