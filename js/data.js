@@ -18,7 +18,7 @@ window.PORTFOLIO_DATA = {
   // email app with their message pre-filled (mailto fallback).
   contact: {
     formspreeId: "YOUR_FORMSPREE_ID",   // <-- REPLACE THIS
-    mailto: "calvinwilliams772@gmail.com",
+    mailto: "cwill214@uic.edu",
     minRenderSeconds: 3
   },
 
