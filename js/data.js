@@ -102,7 +102,7 @@ window.PORTFOLIO_DATA = {
       client: "Intel",
       title: "Intel Data Center",
       year: "2026",
-      role: "Data strategy · Visualization",
+      role: "Data Strategy · Visualization",
       summary:
         "Utililized Tableau to develop interactive dashboards and visualizations (bar charts, dual-axis plots, tree maps, and time-series analyses) to evaluate regional energy production, demand, and renewable usage, supporting data-driven recommendations for optimal and sustainable data center site selection for Intel.",
       contributions: [
@@ -120,15 +120,15 @@ window.PORTFOLIO_DATA = {
       client: "Grammy.com / Recording Academy",
       title: "Analyzing Web Performance",
       year: "2026",
-      role: "Digital strategy · Content systems",
+      role: "Digital Strategy · Content Systems",
       summary:
         "Utilized advanced Excel analytics, PivotTables, conditional logic (IF, SUMIFS, AVERAGEIFS), and XLOOKUP, to calculate user engagement KPIs and mobile visitor rates, comparing performance of Grammy.com and RecordingAcademy.com to assess the business impact of their 2022 website split.",
       contributions: [
-        "Shaped editorial templates and modular content patterns.",
-        "Supported live coverage operations across high-traffic moments.",
-        "Collaborated with design, editorial, and engineering on handoffs and QA."
+        "Analyzed website performance data using Excel (PivotTables, XLOOKUP, IF/SUMIFS) to evaluate user engagement KPIs and mobile traffic trends.",
+        "Compared performance metrics across Grammy.com and RecordingAcademy.com to assess the impact of the 2022 site split.",
+        "Developed data-driven insights and recommendations to inform digital strategy and optimize user engagement."
       ],
-      tags: ["Editorial", "Content ops", "Live events"]
+      tags: ["Advanced Excel", "Web Analytics and KPI Analysis", "Data Interpretation"]
     }
   ],
 
