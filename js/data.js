@@ -181,19 +181,19 @@ window.PORTFOLIO_DATA = {
       title: "AI Professional Skills",
       issuer: "Global Career Accelerator",
       year: "2026",
-      url: "https://www.tableau.com/learn/certification/desktop-specialist"
+      url: "https://www.credential.net/e4938134-6ae5-423b-b5ad-024d16f91ef2#acc.WpEZL2dD"
     },
     {
       title: "Data Visualization",
       issuer: "Global Career Accelerator",
       year: "2026",
-      url: "https://www.coursera.org/professional-certificates/ibm-data-science"
+      url: "https://www.credential.net/11680bbe-e5f5-4afe-9426-c4a716fab36b#acc.r4acbPFY"
     },
     {
       title: "Intercultural Skills",
       issuer: "Global Career Accelerator",
       year: "2026",
-      url: "https://www.coursera.org/professional-certificates/meta-front-end-developer"
+      url: "https://www.credential.net/5ecc2e91-117d-492d-9c0c-5eab1f6f6f7e#acc.YOjGnVQc"
     }
   ],
 
