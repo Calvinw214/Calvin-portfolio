@@ -106,13 +106,13 @@ window.PORTFOLIO_DATA = {
       summary:
         "Utililized Tableau to develop interactive dashboards and visualizations (bar charts, dual-axis plots, tree maps, and time-series analyses) to evaluate regional energy production, demand, and renewable usage, supporting data-driven recommendations for optimal and sustainable data center site selection for Intel.",
       contributions: [
-        "Designed dashboards turning multi-year emissions data into decision-ready visuals.",
-        "Authored narrative frameworks bridging technical metrics with brand voice.",
-        "Facilitated cross-functional reviews to align strategy, data, and communications."
+        "Built interactive Tableau dashboards analyzing regional energy production, demand, and renewable usage to inform site selection decisions.",
+        "Performed time-series and comparative analyses on multi-year energy and emissions data to identify trends and optimal locations.",
+        "Translated complex datasets into actionable insights and presented findings to support data-driven, sustainable data center strategy."
       ],
       image: "assets/intel-dashboard.jpg",
       imageAlt: "Tableau dashboard visualizing Intel sustainability analytics",
-      tags: ["Sustainability", "Data viz", "Executive narrative"]
+      tags: ["Tableau", "Data Visualization", "Data Storytelling"]
     },
     {
       id: "grammy",
