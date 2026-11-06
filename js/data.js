@@ -30,8 +30,8 @@ window.PORTFOLIO_DATA = {
   about: {
     lede: "Hello world\uD83C\uDF0D, I'm Calvin \u2014 someone people rely on when things need to get figured out.",
     paragraphs: [
-      "Currently, I serve as a healthcare leader with experience in <strong>patient access, process improvement, and data analysis</strong>. I work with large datasets using tools like Excel and Tableau to spot trends in performance, then turn those insights into clear, practical recommendations for stakeholders.",
-      "I balance strong analytical thinking with a deep understanding of how people actually work and interact. Whether I'm building training materials, improving front desk operations, or leading a team through ambiguous change, the goal is always the same \u2014 make the complicated feel obvious, and help good people do their best work."
+      "Currently, I serve as a healthcare leader with experience in <strong>patient access leadership and data analysis</strong>. I work with large datasets using tools like Excel and Tableau to spot trends in performance, then turn those insights into clear, practical recommendations for stakeholders.",
+      "I balance strong analytical thinking with a deep understanding of how people actually work and interact. Whether I'm building training materials, improving front desk operations, or leading a team through ambiguous change, the goal is always to make convoluted problems simpler and help people do their best work."
     ]
   },
 
